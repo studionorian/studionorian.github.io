@@ -14,7 +14,7 @@ if (window.location.protocol != 'file:')
                     
                     card_container.innerHTML += `
                        <a href="${element.link}" class="text-center text-decoration-none mx-3">
-                            <img class="rounded-circle shadown" src="${element.image}" alt="">
+                            <img class="rounded-circle shadow" src="${element.image}" alt="">
                             <h5 class="fw-bold mt-2">${element.name}</h5>
                             <span class="text-muted">${element.rol}</span>
                         </a>
