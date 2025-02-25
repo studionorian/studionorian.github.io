@@ -1,0 +1,14 @@
+[
+    {
+        "image":"https://picsum.photos/128",
+        "name":"Full Name",
+        "rol":"Programmer",
+        "link":"https://github.com"
+    },
+    {
+        "image":"https://picsum.photos/128",
+        "name":"Full Name 2",
+        "rol":"Designer",
+        "link":"https://github.com"
+    }
+]
